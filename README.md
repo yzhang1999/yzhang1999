@@ -10,7 +10,7 @@ And more on [My Personal Website](https://yuminzhang.notion.site/Yumin-Zhang-daf
 
 Contact Me:
 
-You can reach out me through [Linkedin](https://www.linkedin.com/in/yumin-zhang/) or by [Email](yuminzhang2024@u.northwestern.edu)!
+You can reach out to me through [Linkedin](https://www.linkedin.com/in/yumin-zhang/) or by [Email](yuminzhang2024@u.northwestern.edu)!
 
 <!--
 **yzhang1999/yzhang1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
